@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "packageName": "com.retroarcade.capsule",
+  "versionCode": 125,
+  "versionName": "1.21",
+  "apkUrl": "https://github.com/nyamNyamm2/retro-capsule-arcade-updates/releases/download/v1.21-code125/retro_arcade_1_21_125.apk",
+  "sha256": "158e474b4df8e37fff07c337d5f73209022fa6e1d2eb03adcffd62e9c5ea4653",
+  "notes": "실행 중 JSON 복원이 오래된 화면 저장에 덮어써지는 오류를 수정하고 저장·내보내기·화면 확인 후 성공 처리하도록 보강했습니다.",
+  "signerSha256": "6419de066ec1e7e3f99cf73ab337db536820ff1d2c19a30406f1a503571c443b",
+  "sizeBytes": 129555
+}
