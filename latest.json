@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "packageName": "com.retroarcade.capsule",
-  "versionCode": 126,
-  "versionName": "1.22",
-  "apkUrl": "https://github.com/nyamNyamm2/retro-capsule-arcade-updates/releases/download/v1.22-code126/retro_arcade_1_22_126.apk",
-  "sha256": "3aa0800723e207a9a48d81afbf39c1dc41777fa870b148c343ba3a58b3cda8aa",
-  "notes": "참참참·레이싱 도전 선택창 가시성을 개선하고, 두더지 보상 구간·등급별 연출·레이싱 자동차와 상단 UI를 수정했습니다.",
+  "versionCode": 127,
+  "versionName": "1.23",
+  "apkUrl": "https://github.com/nyamNyamm2/retro-capsule-arcade-updates/releases/download/v1.23-code127/retro_arcade_1_23_127.apk",
+  "sha256": "8a3739455a87db3842439e26b413d92927d162e072178f2f00901e988567d94c",
+  "notes": "일반·고급·일일 아르바이트 개편, 문제당 시간제 보상, 중등 문제은행, 등급 급여·진행률, 일일 지원서·도감 안내 및 모바일 UI 개선.",
   "signerSha256": "6419de066ec1e7e3f99cf73ab337db536820ff1d2c19a30406f1a503571c443b",
-  "sizeBytes": 275719
+  "sizeBytes": 294979
 }
