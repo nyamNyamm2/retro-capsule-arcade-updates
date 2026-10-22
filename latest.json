@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "packageName": "com.retroarcade.capsule",
-  "versionCode": 129,
-  "versionName": "1.25",
-  "apkUrl": "https://github.com/nyamNyamm2/retro-capsule-arcade-updates/releases/download/v1.25-code129/retro_arcade_1_25_129.apk",
-  "sha256": "5d90d4a72d4b9436a9a29c8199c97800b79666d38e9679c2b01ff382aeb54428",
-  "notes": "1.25 오락실 6종 UI 통일, 수집가 등급 미리보기 위치·연출 개선, 두더지 30초·일반 0.9초/피버 0.45초·마지막 5초 피버·점수별 보상 확률표 및 등급 범위 개편, 레이싱·달고나 보상 및 화면 정리.",
+  "versionCode": 130,
+  "versionName": "1.26",
+  "apkUrl": "https://github.com/nyamNyamm2/retro-capsule-arcade-updates/releases/download/v1.26-code130/retro_arcade_1_26_130.apk",
+  "sha256": "9161b0301e6cb031b8aa096ca4598dabd2787733e5dc4b80490a125809af0a2a",
+  "notes": "1.26 사운드 개선: 셔터 개방 효과음, 선택형 BGM 자동 시작, 평상시 BGM 50%·오락실 게임 중 10%, 효과음 70%, 참참참 원본 전자음 보정, 캡슐 회전/집게 동작별 효과음 교체 및 레이싱 좌우 입체 주행음 추가.",
   "signerSha256": "6419de066ec1e7e3f99cf73ab337db536820ff1d2c19a30406f1a503571c443b",
-  "sizeBytes": 321615
+  "sizeBytes": 2744089
 }
