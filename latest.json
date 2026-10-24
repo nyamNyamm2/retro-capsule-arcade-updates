@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "packageName": "com.retroarcade.capsule",
-  "versionCode": 130,
-  "versionName": "1.26",
-  "apkUrl": "https://github.com/nyamNyamm2/retro-capsule-arcade-updates/releases/download/v1.26-code130/retro_arcade_1_26_130.apk",
-  "sha256": "9161b0301e6cb031b8aa096ca4598dabd2787733e5dc4b80490a125809af0a2a",
-  "notes": "1.26 사운드 개선: 셔터 개방 효과음, 선택형 BGM 자동 시작, 평상시 BGM 50%·오락실 게임 중 10%, 효과음 70%, 참참참 원본 전자음 보정, 캡슐 회전/집게 동작별 효과음 교체 및 레이싱 좌우 입체 주행음 추가.",
+  "versionCode": 131,
+  "versionName": "1.27",
+  "apkUrl": "https://github.com/nyamNyamm2/retro-capsule-arcade-updates/releases/download/v1.27-code131/retro_arcade_1_27_131.apk",
+  "sha256": "e1de9f3a84383c7405297d2897c6a918f6a2f92240559881d34ec9e586122b6d",
+  "notes": "1.27: 5,000원 운명의 가챠(두 캡슐 선택·등급 룰렛), 2,000원 이동 캡슐 집게와 5,000원 20초 캡슐 러시, 보상 판정 개선, 희귀 네온 제거·초월 3색/신화 6색 등급 연출 및 도감 중복 보상 UI 정리.",
   "signerSha256": "6419de066ec1e7e3f99cf73ab337db536820ff1d2c19a30406f1a503571c443b",
-  "sizeBytes": 2744089
+  "sizeBytes": 2757753
 }
