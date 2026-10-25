@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "packageName": "com.retroarcade.capsule",
-  "versionCode": 131,
-  "versionName": "1.27",
-  "apkUrl": "https://github.com/nyamNyamm2/retro-capsule-arcade-updates/releases/download/v1.27-code131/retro_arcade_1_27_131.apk",
-  "sha256": "e1de9f3a84383c7405297d2897c6a918f6a2f92240559881d34ec9e586122b6d",
-  "notes": "1.27: 5,000원 운명의 가챠(두 캡슐 선택·등급 룰렛), 2,000원 이동 캡슐 집게와 5,000원 20초 캡슐 러시, 보상 판정 개선, 희귀 네온 제거·초월 3색/신화 6색 등급 연출 및 도감 중복 보상 UI 정리.",
+  "versionCode": 132,
+  "versionName": "1.28",
+  "apkUrl": "https://github.com/nyamNyamm2/retro-capsule-arcade-updates/releases/download/v1.28-code132/retro_arcade_1_28_132.apk",
+  "sha256": "62aa0224040f7868ef37905b424b5a0c47c2d88be65b45fe0464eb8685170a1f",
+  "notes": "1.28: 게임별 금액·진행 방식에 맞춘 40단계 사용 설명서, 첫 이용 자동 안내와 책 버튼 다시 보기, 최신 공지 1건 자동 팝업·미열람 안내, 이전 공지 및 버전별 업데이트 기록, 새 버전 확인·다운로드 화면을 문방구 UI에 맞춰 개선했습니다. 기존 용돈·도감·프로필 기록은 유지됩니다.",
   "signerSha256": "6419de066ec1e7e3f99cf73ab337db536820ff1d2c19a30406f1a503571c443b",
-  "sizeBytes": 2757753
+  "sizeBytes": 4134305
 }
